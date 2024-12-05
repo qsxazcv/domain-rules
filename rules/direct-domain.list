@@ -13,6 +13,9 @@ DOMAIN-KEYWORD,mirror
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,218.85.152.99/32,no-resolve
+IP-CIDR,211.138.156.66/32,no-resolve
+IP-CIDR,218.104.128.106/32,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
