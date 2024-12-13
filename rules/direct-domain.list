@@ -747,6 +747,10 @@ DOMAIN,tracker.agsvpt.work
 DOMAIN,agsvpt.trackers.work
 DOMAIN,tracker.ptcafe.club
 DOMAIN,tracker.totheglory.im
+DOMAIN,tracker.agsvpt.cn
+DOMAIN,tracker.keepfrds.com
+DOMAIN,tracker.rainbowisland.co
+DOMAIN,tracker.ptchdbits.co
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,52pt.site
@@ -903,10 +907,6 @@ DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,agsvpt.cn
-DOMAIN-SUFFIX,tracker.agsvpt.cn
-DOMAIN-SUFFIX,tracker.keepfrds.com
-DOMAIN-SUFFIX,tracker.rainbowisland.co
-DOMAIN-SUFFIX,tracker.ptchdbits.co
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-KEYWORD,announce
