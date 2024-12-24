@@ -578,6 +578,13 @@ DOMAIN-SUFFIX,zhuihd.com
 
 
 # PT站点
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,chdbits
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,hdkylin
+DOMAIN-KEYWORD,zmpt
+DOMAIN-KEYWORD,qingwapt
+DOMAIN-KEYWORD,tracker
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
@@ -912,12 +919,6 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,agsvpt.cn
 DOMAIN-SUFFIX,chdbits.xyz
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,chdbits
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,hdkylin
-DOMAIN-KEYWORD,zmpt
-DOMAIN-KEYWORD,qingwapt
 
 
 # 自定义特殊直连规则
