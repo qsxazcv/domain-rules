@@ -13,6 +13,7 @@ DOMAIN,star-space.net
 DOMAIN,www.qingwapt.com
 DOMAIN,hhanclub.top
 DOMAIN,lemonhd.club
+DOMAIN,image.tmdb.org
 
 # EA Desktop 云同步
 #DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
@@ -37,7 +38,6 @@ DOMAIN-SUFFIX,translate.googleapis.com
 # 自定义常用
 DOMAIN-SUFFIX,bajie.pw
 DOMAIN,cn.v2ex.com
-DOMAIN,image.tmdb.org
 
 # DOMAIN-SUFFIX,invites.fun
 DOMAIN-SUFFIX,qichiyu.com
