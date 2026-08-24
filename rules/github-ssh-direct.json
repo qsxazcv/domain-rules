@@ -1,0 +1,5 @@
+{
+  "domain_suffix": ["github.com"],
+  "port": 22,
+  "outbound": "direct"
+}
