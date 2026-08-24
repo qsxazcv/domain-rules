@@ -1,5 +1,10 @@
 {
-  "domain_suffix": ["github.com"],
-  "port": 22,
-  "outbound": "direct"
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": ["github.com"],
+      "port": 22,
+      "outbound": "direct"
+    }
+  ]
 }
