@@ -4,3 +4,5 @@
 # 如需只针对 github.com，可改用 DOMAIN-SUFFIX,github.com,DIRECT（但会连 443 也直连）。
 payload:
   - DST-PORT,22,DIRECT
+  - DST-PORT,38747,DIRECT
+  - DST-PORT,51422,DIRECT
