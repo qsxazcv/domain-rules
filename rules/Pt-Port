@@ -1,0 +1,7 @@
+# Clash/mihomo 规则：SSH 22 端口直连
+# 说明：Clash 规则无法在同一条里同时 AND 匹配「域名 + 端口」，
+# 这里用 DST-PORT 让所有 22 端口（SSH）走直连，避免被代理拦截。
+# 如需只针对 github.com，可改用 DOMAIN-SUFFIX,github.com,DIRECT（但会连 443 也直连）。
+payload:
+  - DST-PORT,38747,DIRECT
+  - DST-PORT,51422,DIRECT
