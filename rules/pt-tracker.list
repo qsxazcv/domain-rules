@@ -44,3 +44,6 @@ DOMAIN,tracker.zhuque.in
 DOMAIN,agsvpt.trackers.work
 DOMAIN,on.springsunday.net
 DOMAIN,zmpt.cc
+
+# 域名关键词兜底（含 tracker 的域名自动命中，新站免手动加）
+DOMAIN-KEYWORD,tracker
