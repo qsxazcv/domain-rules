@@ -47,3 +47,7 @@ DOMAIN,zmpt.cc
 
 # 域名关键词兜底（含 tracker 的域名自动命中，新站免手动加）
 DOMAIN-KEYWORD,tracker
+
+# 图床/资源域名（含子域名）
+DOMAIN-SUFFIX,997910.xyz
+DOMAIN-SUFFIX,6764835.xyz
