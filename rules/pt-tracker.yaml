@@ -1,8 +1,3 @@
-# NAME: PT-Tracker
-# AUTHOR: qsxazcv
-# REPO: https://github.com/qsxazcv/domain-rules
-# PT 站 tracker / RSS / 子域名精确直连规则集（source 格式，兼容 sing-box / Clash / mihomo）
-
 payload:
   - DOMAIN,anime-no-index.com
   - DOMAIN,chdbits.xyz
