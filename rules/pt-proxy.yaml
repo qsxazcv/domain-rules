@@ -1,8 +1,3 @@
-# NAME: PT-Domain
-# AUTHOR: qsxazcv
-# REPO: https://github.com/qsxazcv/domain-rules
-# 国内 PT 站精确域名规则集（source 格式，兼容 sing-box / Clash / mihomo，含 tracker / RSS 子域）
-
 payload:
   - DOMAIN,hhanclub.net
   - DOMAIN,www.qingwapt.com
