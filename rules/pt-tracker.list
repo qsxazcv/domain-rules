@@ -1,0 +1,46 @@
+# NAME: PT-Tracker
+# AUTHOR: qsxazcv
+# REPO: https://github.com/qsxazcv/domain-rules
+# PT 站 tracker / RSS / 子域名精确直连清单
+
+# 精确域名匹配（不含子域）
+DOMAIN,anime-no-index.com
+DOMAIN,chdbits.xyz
+DOMAIN,hdfans.org
+DOMAIN,hdvideo.top
+DOMAIN,ourbits.club
+DOMAIN,pt.btschool.club
+DOMAIN,pt.keepfrds.com
+DOMAIN,pt.ourhelp.club
+DOMAIN,pt.soulvoice.club
+DOMAIN,t.audiences.me
+DOMAIN,t.hddolby.com
+DOMAIN,t.hdhome.org
+DOMAIN,t.ubits.club
+DOMAIN,tra1.m-team.cc
+DOMAIN,tra99.manfuz.co
+DOMAIN,tracker.agsvpt.cn
+DOMAIN,tracker.agsvpt.work
+DOMAIN,tracker.carpt.net
+DOMAIN,tracker.cinefiles.info
+DOMAIN,tracker.cyanbug.net
+DOMAIN,tracker.hdarea.club
+DOMAIN,tracker.hdsky.me
+DOMAIN,tracker.hhanclub.net
+DOMAIN,tracker.keepfrds.com
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.m-team.io
+DOMAIN,tracker.open.cd
+DOMAIN,tracker.piggo.me
+DOMAIN,tracker.ptcafe.club
+DOMAIN,tracker.ptchdbits.co
+DOMAIN,tracker.pterclub.net
+DOMAIN,tracker.qingwapt.com
+DOMAIN,tracker.qingwapt.org
+DOMAIN,tracker.rainbowisland.co
+DOMAIN,tracker.sunnypt.top
+DOMAIN,tracker.totheglory.im
+DOMAIN,tracker.zhuque.in
+DOMAIN,agsvpt.trackers.work
+DOMAIN,on.springsunday.net
+DOMAIN,zmpt.cc
