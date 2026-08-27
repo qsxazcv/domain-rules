@@ -1,1 +1,54 @@
-{"version":2,"rules":[{"domain":["anime-no-index.com","chdbits.xyz","hdfans.org","hdvideo.top","ourbits.club","pt.btschool.club","pt.keepfrds.com","pt.ourhelp.club","pt.soulvoice.club","t.audiences.me","t.hddolby.com","t.hdhome.org","t.ubits.club","tra1.m-team.cc","tra99.manfuz.co","tracker.agsvpt.cn","tracker.agsvpt.work","tracker.carpt.net","tracker.cinefiles.info","tracker.cyanbug.net","tracker.hdarea.club","tracker.hdsky.me","tracker.hhanclub.net","tracker.keepfrds.com","tracker.m-team.cc","tracker.m-team.io","tracker.open.cd","tracker.piggo.me","tracker.ptcafe.club","tracker.ptchdbits.co","tracker.pterclub.net","tracker.qingwapt.com","tracker.qingwapt.org","tracker.rainbowisland.co","tracker.sunnypt.top","tracker.totheglory.im","tracker.zhuque.in","agsvpt.trackers.work","on.springsunday.net","zmpt.cc"],"domain_keyword":"tracker","domain_suffix":["997910.xyz","6764835.xyz"]}]}
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "anime-no-index.com",
+        "chdbits.xyz",
+        "hdfans.org",
+        "hdvideo.top",
+        "ourbits.club",
+        "pt.btschool.club",
+        "pt.keepfrds.com",
+        "pt.ourhelp.club",
+        "pt.soulvoice.club",
+        "t.audiences.me",
+        "t.hddolby.com",
+        "t.hdhome.org",
+        "t.ubits.club",
+        "tra1.m-team.cc",
+        "tra99.manfuz.co",
+        "tracker.agsvpt.cn",
+        "tracker.agsvpt.work",
+        "tracker.carpt.net",
+        "tracker.cinefiles.info",
+        "tracker.cyanbug.net",
+        "tracker.hdarea.club",
+        "tracker.hdsky.me",
+        "tracker.hhanclub.net",
+        "tracker.keepfrds.com",
+        "tracker.m-team.cc",
+        "tracker.m-team.io",
+        "tracker.open.cd",
+        "tracker.piggo.me",
+        "tracker.ptcafe.club",
+        "tracker.ptchdbits.co",
+        "tracker.pterclub.net",
+        "tracker.qingwapt.com",
+        "tracker.qingwapt.org",
+        "tracker.rainbowisland.co",
+        "tracker.sunnypt.top",
+        "tracker.totheglory.im",
+        "tracker.zhuque.in",
+        "agsvpt.trackers.work",
+        "on.springsunday.net",
+        "zmpt.cc"
+      ],
+      "domain_keyword": "tracker",
+      "domain_suffix": [
+        "997910.xyz",
+        "6764835.xyz"
+      ]
+    }
+  ]
+}
