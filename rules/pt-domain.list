@@ -1,0 +1,32 @@
+# NAME: PT-Domain
+# AUTHOR: qsxazcv
+# REPO: https://github.com/qsxazcv/domain-rules
+# 国内 PT 站精确域名直连清单（含 tracker / RSS 子域）
+
+# 精确域名匹配（不含子域）
+DOMAIN,hhanclub.net
+DOMAIN,www.qingwapt.com
+DOMAIN,ubits.club
+DOMAIN,ptcafe.club
+DOMAIN,pterclub.net
+DOMAIN,carpt.net
+DOMAIN,monikadesign.uk
+DOMAIN,hdarea.club
+DOMAIN,zhuque.in
+DOMAIN,piggo.me
+DOMAIN,sunnypt.top
+DOMAIN,cyanbug.net
+DOMAIN,rousi.pro
+DOMAIN,anibt.net
+DOMAIN,dmhy.org
+DOMAIN,mikanani.me
+DOMAIN,nyaa.si
+DOMAIN,star-space.net
+
+# 子域精确匹配（tracker / RSS 专用）
+DOMAIN,api.sunnypt.top
+DOMAIN,bt1.manfuz.co
+DOMAIN,fr1.halomt.com
+DOMAIN,hs1.holysalt.org
+DOMAIN,rss.m-team.cc
+DOMAIN,rss.m-team.io
