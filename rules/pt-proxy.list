@@ -4,30 +4,32 @@
 # 国内 PT 站精确域名直连清单（含 tracker / RSS 子域）
 
 # 精确域名匹配（不含子域）
-DOMAIN,hhanclub.net
+DOMAIN,anibt.net
 DOMAIN,audiences.me
-DOMAIN,www.qingwapt.com
-DOMAIN,ubits.club
+DOMAIN,carpt.net
+DOMAIN,cyanbug.net
+DOMAIN,dmhy.org
+DOMAIN,hdarea.club
+DOMAIN,hhanclub.net
+DOMAIN,mikanani.me
+DOMAIN,monikadesign.uk
+DOMAIN,nyaa.si
+DOMAIN,piggo.me
+DOMAIN,proxy-cover.hhanclub.net
 DOMAIN,ptcafe.club
 DOMAIN,pterclub.net
-DOMAIN,carpt.net
-DOMAIN,monikadesign.uk
-DOMAIN,hdarea.club
-DOMAIN,zhuque.in
-DOMAIN,piggo.me
-DOMAIN,sunnypt.top
-DOMAIN,cyanbug.net
 DOMAIN,rousi.pro
-DOMAIN,anibt.net
-DOMAIN,dmhy.org
-DOMAIN,mikanani.me
-DOMAIN,nyaa.si
 DOMAIN,star-space.net
+DOMAIN,sunnypt.top
+DOMAIN,ubits.club
+DOMAIN,www.qingwapt.com
+DOMAIN,zhuque.in
 
-# 子域精确匹配（tracker / RSS 专用）
+# 子域精确匹配（tracker / RSS / 封面代理专用）
 DOMAIN,api.sunnypt.top
 DOMAIN,bt1.manfuz.co
 DOMAIN,fr1.halomt.com
 DOMAIN,hs1.holysalt.org
+DOMAIN,proxy-cover.hhanclub.net
 DOMAIN,rss.m-team.cc
 DOMAIN,rss.m-team.io
