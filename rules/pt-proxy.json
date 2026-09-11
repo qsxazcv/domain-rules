@@ -4,31 +4,31 @@
     {
       "domain": [
         "anibt.net",
-        "api.sunnypt.top",
         "audiences.me",
-        "bt1.manfuz.co",
         "carpt.net",
         "cyanbug.net",
         "dmhy.org",
-        "fr1.halomt.com",
         "hdarea.club",
         "hhanclub.net",
-        "hs1.holysalt.org",
         "mikanani.me",
         "monikadesign.uk",
         "nyaa.si",
         "piggo.me",
-        "proxy-cover.hhanclub.net",
         "ptcafe.club",
         "pterclub.net",
         "rousi.pro",
-        "rss.m-team.cc",
-        "rss.m-team.io",
         "star-space.net",
         "sunnypt.top",
         "ubits.club",
         "www.qingwapt.com",
-        "zhuque.in"
+        "zhuque.in",
+        "api.sunnypt.top",
+        "bt1.manfuz.co",
+        "fr1.halomt.com",
+        "hs1.holysalt.org",
+        "proxy-cover.hhanclub.net",
+        "rss.m-team.cc",
+        "rss.m-team.io"
       ]
     }
   ]

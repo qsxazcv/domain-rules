@@ -1,27 +1,29 @@
 payload:
   - DOMAIN,anibt.net
-  - DOMAIN,api.sunnypt.top
   - DOMAIN,audiences.me
-  - DOMAIN,bt1.manfuz.co
   - DOMAIN,carpt.net
   - DOMAIN,cyanbug.net
   - DOMAIN,dmhy.org
-  - DOMAIN,fr1.halomt.com
   - DOMAIN,hdarea.club
   - DOMAIN,hhanclub.net
-  - DOMAIN,hs1.holysalt.org
   - DOMAIN,mikanani.me
   - DOMAIN,monikadesign.uk
   - DOMAIN,nyaa.si
   - DOMAIN,piggo.me
-  - DOMAIN,proxy-cover.hhanclub.net
   - DOMAIN,ptcafe.club
   - DOMAIN,pterclub.net
   - DOMAIN,rousi.pro
-  - DOMAIN,rss.m-team.cc
-  - DOMAIN,rss.m-team.io
   - DOMAIN,star-space.net
   - DOMAIN,sunnypt.top
   - DOMAIN,ubits.club
   - DOMAIN,www.qingwapt.com
   - DOMAIN,zhuque.in
+
+  # 子域名（按主域名分组）
+  - DOMAIN,api.sunnypt.top
+  - DOMAIN,bt1.manfuz.co
+  - DOMAIN,fr1.halomt.com
+  - DOMAIN,hs1.holysalt.org
+  - DOMAIN,proxy-cover.hhanclub.net
+  - DOMAIN,rss.m-team.cc
+  - DOMAIN,rss.m-team.io
