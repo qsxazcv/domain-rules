@@ -4,10 +4,12 @@
 # PT 站 tracker / RSS / 子域名精确直连清单
 
 # 精确域名匹配（不含子域）
+DOMAIN,agsvpt.trackers.work
 DOMAIN,anime-no-index.com
 DOMAIN,chdbits.xyz
 DOMAIN,hdfans.org
 DOMAIN,hdvideo.top
+DOMAIN,on.springsunday.net
 DOMAIN,ourbits.club
 DOMAIN,pt.btschool.club
 DOMAIN,pt.keepfrds.com
@@ -41,14 +43,12 @@ DOMAIN,tracker.rainbowisland.co
 DOMAIN,tracker.sunnypt.top
 DOMAIN,tracker.totheglory.im
 DOMAIN,tracker.zhuque.in
-DOMAIN,agsvpt.trackers.work
-DOMAIN,on.springsunday.net
-DOMAIN,zmpt.cc
 DOMAIN,www.uhddolby.com
+DOMAIN,zmpt.cc
 
 # 域名关键词兜底（含 tracker 的域名自动命中，新站免手动加）
 DOMAIN-KEYWORD,tracker
 
 # 图床/资源域名（含子域名）
-DOMAIN-SUFFIX,997910.xyz
 DOMAIN-SUFFIX,6764835.xyz
+DOMAIN-SUFFIX,997910.xyz

@@ -1,8 +1,10 @@
 payload:
+  - DOMAIN,agsvpt.trackers.work
   - DOMAIN,anime-no-index.com
   - DOMAIN,chdbits.xyz
   - DOMAIN,hdfans.org
   - DOMAIN,hdvideo.top
+  - DOMAIN,on.springsunday.net
   - DOMAIN,ourbits.club
   - DOMAIN,pt.btschool.club
   - DOMAIN,pt.keepfrds.com
@@ -36,10 +38,8 @@ payload:
   - DOMAIN,tracker.sunnypt.top
   - DOMAIN,tracker.totheglory.im
   - DOMAIN,tracker.zhuque.in
-  - DOMAIN,agsvpt.trackers.work
-  - DOMAIN,on.springsunday.net
-  - DOMAIN,zmpt.cc
   - DOMAIN,www.uhddolby.com
+  - DOMAIN,zmpt.cc
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-SUFFIX,997910.xyz
   - DOMAIN-SUFFIX,6764835.xyz
+  - DOMAIN-SUFFIX,997910.xyz

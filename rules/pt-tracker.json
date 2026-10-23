@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain": [
+        "agsvpt.trackers.work",
         "anime-no-index.com",
         "chdbits.xyz",
         "hdfans.org",
         "hdvideo.top",
+        "on.springsunday.net",
         "ourbits.club",
         "pt.btschool.club",
         "pt.keepfrds.com",
@@ -40,15 +42,13 @@
         "tracker.sunnypt.top",
         "tracker.totheglory.im",
         "tracker.zhuque.in",
-        "agsvpt.trackers.work",
-        "on.springsunday.net",
+        "www.uhddolby.com",
         "zmpt.cc"
-        "www.uhddolby.com"
       ],
       "domain_keyword": "tracker",
       "domain_suffix": [
-        "997910.xyz",
-        "6764835.xyz"
+        "6764835.xyz",
+        "997910.xyz"
       ]
     }
   ]
